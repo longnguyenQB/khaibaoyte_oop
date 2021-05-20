@@ -1,2 +1,3 @@
 # khaibaoyte_oop
-OOP Khai bao y te
+OOP Python :  Khai bao y te
+Lập trình hướng đối tượng Python
